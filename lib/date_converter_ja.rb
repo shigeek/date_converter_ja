@@ -22,5 +22,5 @@ module DateConverterJa
 end
 
 class Date
-  include AmPm
+  include DateConverterJa
 end
