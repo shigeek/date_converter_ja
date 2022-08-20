@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.authors = ["holasoynaoki"]
   spec.email = ["naoki13futsal@gmail.com"]
 
-  spec.summary = "date_converter_ja"
-  spec.description = "date_converter_ja"
+  spec.summary = "Format the date in a nice way gem."
+  spec.description = "Format the date in a nice way gem."
   spec.homepage = "https://github.com/holasoynaoki/date_converter_ja"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
